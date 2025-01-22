@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🏗️🎨📊 Welcome to my coding dream! 🚀
 
-<!--
-**York0503/York0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who Am I?
+Hey there! I'm York, a engineer weaving magic in backend development, algorithms, SQL data, and energy. With a background in energy and a passion for backend development design.
 
-Here are some ideas to get you started:
+## Crafting Experiences
+Whether it's designing API interfaces, analyzing data to uncover insights, Image recognition or data prediction algorithms, or sculpting energy marvels that defy convention.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Superpowers 💻✨
+
+- **Programming Languages:** Python, C#, SQL
+- **Data Science & ML:** SQL Server, Pandas, Numpy, CNN, YOLO, PyTorch
+- **Web Development:** .Net Core, .Net Framework, Vue
+- **Design Tools:** Figma, Adobe Photoshop, Adobe Premiere Pro
+- **Architectural Design:** AutoCAD
+
+## 
+- please feel free to contact me at any time
+- 👀 I’m interested in music and image.
+- 🌱 I’m looking to collaborate on ...
+- 📫 How to reach me ? coolyork0503@gmail.com
