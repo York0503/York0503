@@ -1,6 +1,6 @@
-# 🏗️🎨📊 Welcome to my coding dream! 🚀
+# 🏗️🎨📊 Welcome To My Coding Dream! 🚀
 
-## Who Am I?
+## Who Am I ?
 Hey there! I'm York, a engineer weaving magic in backend development, algorithms, SQL data, and energy. With a background in energy and a passion for backend development design.
 
 ## Crafting Experiences
@@ -14,8 +14,9 @@ Whether it's designing API interfaces, analyzing data to uncover insights, Image
 - **Design Tools:** Figma, Adobe Photoshop, Adobe Premiere Pro
 - **Architectural Design:** AutoCAD
 
-## 
-- please feel free to contact me at any time
+## My Connection Info
+please feel free to contact me at any time.
 - 👀 I’m interested in music and image.
 - 🌱 I’m looking to collaborate on ...
-- 📫 How to reach me ? coolyork0503@gmail.com
+- 📫 How to reach me ? `coolyork0503@gmail.com`
+
