@@ -8,9 +8,9 @@ Whether it's designing API interfaces, analyzing data to uncover insights, Image
 
 ## Skills & Superpowers 💻✨
 
-- **Programming Languages:** Python, C#, SQL
-- **Data Science & ML:** SQL Server, Pandas, Numpy, CNN, YOLO, PyTorch
-- **Web Development:** .Net Core, .Net Framework, Vue
+- **Programming Languages:** Python, C#, SQL, (Node.js, Java, C++)
+- **Data Science & ML:** SQL Server, Pandas, Numpy, PyTorch, CNN, YOLO
+- **Web Development:** .Net Core, .Net Framework, Vue, Andoid app
 - **Design Tools:** Figma, Adobe Photoshop, Adobe Premiere Pro
 - **Architectural Design:** AutoCAD
 
